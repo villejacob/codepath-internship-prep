@@ -21,6 +21,7 @@ input_4 = [2, 2, 2]
 input_5 = [1, 2, 3, 3, 4, 5, 6, 6, 6, 7, 8, 8, 9]
 input_arrays = [input_1, input_2, input_3, input_4, input_5]
 
+
 def removeDuplicates(array):
 
     # If input array is empty or has 1 element
